@@ -1,1 +1,1 @@
-https://app.patika.dev/apoesmer
+https://app.patika.dev/paths
